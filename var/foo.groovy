@@ -1,6 +1,6 @@
 //#!/usr/bin/env groovy
 
-def foo(){
+def call(){
     sh 'echo pipeline shared library'
 }
 
