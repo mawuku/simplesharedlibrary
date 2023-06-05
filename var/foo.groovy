@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-def testLibrary(){
+def call(){
     println "This is simple shared library step"
 }
 
